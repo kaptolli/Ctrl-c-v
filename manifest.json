@@ -10,8 +10,16 @@
   "theme_color": "#141c28",
   "id": "com.KaPatolla.CtrlCv",
   "description": "Ctrl CV - My first real program",
-  "lang": "en",
+  "lang": "ru",
   "categories": [
-    "photo &amp; video"
+    "photo & video"
+  ],
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
