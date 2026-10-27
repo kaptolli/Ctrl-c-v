@@ -9,5 +9,9 @@
   "start_url": "/",
   "theme_color": "#141c28",
   "id": "com.KaPatolla.CtrlCv",
-  "description": "Ctrl CV - My first real program"
+  "description": "Ctrl CV - My first real program",
+  "lang": "en",
+  "categories": [
+    "photo &amp; video"
+  ]
 }
